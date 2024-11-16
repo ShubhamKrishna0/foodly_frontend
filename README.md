@@ -83,7 +83,7 @@ Welcome to **Foodly**, your ultimate food discovery and ordering app that brings
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/foodly-app.git
+    git clone https://github.com/ShubhamKrishna0/foodly_frontend.git
     cd foodly-app
     ```
 
@@ -195,9 +195,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any queries, suggestions, or collaboration requests, feel free to reach out to us:
 
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Email:** krishnashubham09@gmail.com
+- **GitHub:** https://github.com/ShubhamKrishna0
+- **LinkedIn:** https://www.linkedin.com/in/shubham0/
 
 ---
 

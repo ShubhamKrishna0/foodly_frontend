@@ -1,4 +1,4 @@
-# 🍔 **Foodly App** 🍕 
+# 🍔 **Foodly App** 🍕
 
 Welcome to **Foodly**, your ultimate food discovery and ordering app that brings the world of flavors directly to your device. With **Foodly**, you can easily browse restaurants, place orders, track deliveries, and securely pay—all in one app. 
 
@@ -158,11 +158,9 @@ We’ve integrated **Stripe** to handle secure payments in the app:
 
 ---
 
+## ![Foodly Screenshot](images/Screenshot (11).png)
 
-![Foodly Screenshot](images/Screenshot (11).png)
-
-
-
+---
 
 ## 🤝 **Contributing**
 

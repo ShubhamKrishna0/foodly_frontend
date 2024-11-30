@@ -159,7 +159,7 @@ We’ve integrated **Stripe** to handle secure payments in the app:
 ---
 
 
-![Foodly Logo](images/Screenshot (11).png)
+!(images/Screenshot (11).png)
 
 
 ## 🤝 **Contributing**

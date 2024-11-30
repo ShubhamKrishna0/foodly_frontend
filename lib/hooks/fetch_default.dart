@@ -44,7 +44,7 @@ FetchHook useFetchDefault() {
     } catch (e) {
       box.write("defaultAddress", false);
       error.value = e as Exception;
-    //  print(e.toString());
+      //  print(e.toString());
     } finally {
       isLoading.value = false;
     }

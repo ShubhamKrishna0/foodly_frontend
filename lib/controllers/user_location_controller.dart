@@ -20,7 +20,6 @@ class UserLocationController extends GetxController {
     _isDefault.value = value;
   }
 
-
   RxInt _tabIndex = 0.obs;
 
   int get tabIndex => _tabIndex.value;
@@ -43,7 +42,6 @@ class UserLocationController extends GetxController {
   set setAddress(String value) {
     _address.value = value;
   }
-
 
   RxString _address1 = ''.obs;
 
@@ -99,9 +97,6 @@ class UserLocationController extends GetxController {
       var response = await http.post(url, headers: headers, body: data);
 
       if (response.statusCode == 201) {
-
-
-
         Get.snackbar(
             "Your address has been added", "Enjoy your awesome experience",
             colorText: kLightWhite,
@@ -109,8 +104,6 @@ class UserLocationController extends GetxController {
             icon: const Icon(Ionicons.fast_food_outline));
 
         Get.offAll(() => MainScreen());
-        
-
       } else {
         var error = apiErrorFromJson(response.body);
 
@@ -123,6 +116,4 @@ class UserLocationController extends GetxController {
       debugPrint(e.toString());
     }
   }
-
-
 }

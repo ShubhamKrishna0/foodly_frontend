@@ -186,13 +186,13 @@ class _ShippingAddressState extends State<ShippingAddress> {
                   },
                   initialCameraPosition: CameraPosition(
                       target: _selectedPosition ??
-                          const LatLng(37.785834, -122.406417),
+                          const LatLng(20.250041949729464, 85.80016629753433),
                       zoom: 15),
                   markers: _selectedPosition == null
                       ? Set.of([
                           Marker(
                             markerId: const MarkerId('Your Location'),
-                            position: const LatLng(37.785834, -122.406417),
+                            position: const LatLng(20.250041949729464, 85.80016629753433),
                             draggable: true,
                             onDragEnd: (LatLng position) {
                               locationController.getUserAddress(position);

@@ -159,6 +159,22 @@ We’ve integrated **Stripe** to handle secure payments in the app:
 ---
 
 ![User Profile](images/Screenshot%20(11).png)
+![User Profile](images/Screenshot%20(12).png)
+![User Profile](images/Screenshot%20(13).png)
+![User Profile](images/Screenshot%20(14).png)
+![User Profile](images/Screenshot%20(15).png)
+![User Profile](images/Screenshot%20(16).png)
+![User Profile](images/Screenshot%20(17).png)
+![User Profile](images/Screenshot%20(18).png)
+![User Profile](images/Screenshot%20(19).png)
+![User Profile](images/Screenshot%20(20).png)
+![User Profile](images/Screenshot%20(21).png)
+![User Profile](images/Screenshot%20(22).png)
+![User Profile](images/Screenshot%20(23).png)
+![User Profile](images/Screenshot%20(24).png)
+![User Profile](images/Screenshot%20(25).png)
+
+
 
 ---
 
